@@ -1,3 +1,7 @@
+* {
+    cursor: url('cursor.cur'), auto;
+}
+
 body {
     background-image: url(scenestarzzz.jpg);
     background-repeat: repeat;
@@ -5,6 +9,7 @@ body {
     color: white;
     margin: auto
 }
+
 
 .nav {
     background-color: rgb(0, 0, 0);
@@ -84,3 +89,4 @@ a {
 footer {
     text-align: center;
 }
+
