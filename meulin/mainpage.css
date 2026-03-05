@@ -1,0 +1,76 @@
+body {
+    background-image: url(scenestarzzz.jpg);
+    background-repeat: repeat;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin: auto
+}
+
+.nav {
+    background-color: rgb(0, 0, 0);
+    max-width: 130px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.aboutme {
+    margin-top: -18px;
+    padding: 6px;
+    border-left: dashed;
+    border-bottom: dashed;
+    border-right: dashed;
+    border-color: rgb(172, 88, 241);
+    width: 118px;
+}
+
+hr {
+    border-color:rgb(172, 88, 241)
+}
+
+.bout {
+    border-color: rgb(172, 88, 241);
+    border-style: solid
+}   
+
+.header {
+    border-style: solid;
+    border-color: rgb(172, 88, 241)
+}
+
+.maindesc {
+    background-color: rgba(16, 0, 29, 0.75);
+    color: white;
+    margin-top: 31px;
+    padding: 8px;
+
+}
+
+.movingtext {
+    color: rgb(172, 88, 241);
+    background-color: rgba(16, 0, 29, 0.75);
+    margin-bottom: -24px;
+}
+
+.banner {
+    max-width: 750;
+    text-align: center;
+    display: block;
+    margin: auto;
+    border-style: solid;
+    color:rgb(172, 88, 241);
+}
+
+h3 {
+    margin-top: 5px;
+    margin-bottom: -5px;
+    color:rgb(172, 88, 241);
+    font-style: italic
+}
+
+.current {
+    text-decoration: underline
+}
+
+a {
+    color:rgb(172, 88, 241);;
+}
