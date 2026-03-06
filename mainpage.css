@@ -90,3 +90,16 @@ footer {
     text-align: center;
 }
 
+.navbarlink, .current {
+    text-decoration: none;
+    margin: 0
+}
+
+.current {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.mikublog {
+    margin-top: -6.1px;
+}
