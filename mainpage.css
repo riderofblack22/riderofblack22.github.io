@@ -77,7 +77,8 @@ h3 {
 }
 
 a {
-    color:rgb(172, 88, 241);;
+    color:rgb(172, 88, 241);
+    text-decoration: none;
 }
 
 .guestbook {
@@ -102,4 +103,12 @@ footer {
 
 .mikublog {
     margin-top: -6.1px;
+}
+
+a:hover {
+    color: white;
+}
+
+footer a {
+    text-decoration: underline;
 }
