@@ -7,7 +7,8 @@ body {
     background-repeat: repeat;
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    margin: auto
+    margin: auto;
+    scrollbar-color: rgb(172, 88, 241) grey;
 }
 
 
