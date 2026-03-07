@@ -1,5 +1,5 @@
 * {
-    cursor: url('cursor.cur'), auto;
+    cursor: url('rdcursor.cur'), auto;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     color: white;
     margin: auto;
-    scrollbar-color: rgb(172, 88, 241) grey;
+    scrollbar-color: #ac58f1 grey;
 }
 
 
