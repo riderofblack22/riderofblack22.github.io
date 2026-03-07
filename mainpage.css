@@ -169,3 +169,8 @@ footer a {
         cursor: url(rd16.png), auto;
     }
 }
+
+::selection {
+    background-color:rgba(172, 88, 241, 0.364);
+    color: white;
+}
