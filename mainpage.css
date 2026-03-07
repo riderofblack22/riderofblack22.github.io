@@ -1,6 +1,3 @@
-* {
-    cursor: url('rdcursor.cur'), auto;
-}
 
 body {
     background-image: url(scenestarzzz.jpg);
@@ -112,4 +109,63 @@ a:hover {
 
 footer a {
     text-decoration: underline;
+}
+
+ html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    cursor: url(rdcursor.gif), auto;
+    animation: cursor 1s linear infinite;
+}
+
+@keyframes cursor{
+    0% { 
+        cursor: url(rd1.png), auto;
+    }
+    6.66% { 
+        cursor: url(rd2.png), auto;
+    }
+    13.33% { 
+        cursor: url(rd3.png), auto;
+    }
+    20% {
+        cursor: url(rd4.png), auto;
+    }
+    26.66% {
+        cursor: url(rd5.png), auto;
+    }
+    33.33% {
+        cursor: url(rd6.png), auto;
+    }
+    40% {
+        cursor: url(rd7.png), auto;
+    }
+    46.66% {
+        cursor: url(rd8.png), auto;
+    }
+    53.33% {
+        cursor: url(rd9.png), auto;
+    }
+    60% {
+        cursor: url(rd10.png), auto;
+    }
+    66.66% {
+        cursor: url(rd11.png), auto;
+    }
+    73.33% {
+        cursor: url(rd12.png), auto;
+    }
+    80% {
+        cursor: url(rd13.png), auto;
+    }
+    86.66% {
+        cursor: url(rd14.png), auto;
+    }
+    93.33% {
+        cursor: url(rd15.png), auto;
+    }
+    100% {
+        cursor: url(rd16.png), auto;
+    }
 }
